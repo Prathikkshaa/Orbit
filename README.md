@@ -13,8 +13,8 @@ A frontend-first execution control system built with **Streamlit**, designed for
 | Page | Purpose |
 |------|---------|
 | **Today Command Panel** | Daily focus subject, habits, priorities, and execution status |
-| **TNPSC Prelims Radar** | Subject-wise coverage, PYQ tracking, and confidence gauges |
-| **TNPSC Mains Depth Map** | Paper-wise theme analysis with answer practice metrics |
+| **Study Radar** | Subject-wise coverage, PYQ tracking, and confidence gauges |
+| **Subject Map** | Paper-wise theme analysis with answer practice metrics |
 | **Skill Builder Engine** | Technical skill tracking with Plotly progress bars |
 | **Health + Finance Control** | Weight trend chart and savings projection with goal lines |
 | **Idea Pipeline** | Kanban board with drag-stage transitions via dropdowns |
