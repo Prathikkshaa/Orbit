@@ -1,6 +1,6 @@
 # ⚡ Orbit — Personal Command Dashboard
 
-A frontend-first execution control system built with **Streamlit**, designed for TNPSC Group 1 preparation tracking, skill-building, habit management, analytics, and idea pipeline management.
+A frontend-first execution control system built with **Streamlit**, designed for preparation tracking, skill-building, habit management, analytics, and idea pipeline management.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=flat&logo=streamlit&logoColor=white)
